@@ -912,6 +912,7 @@ body {
 }
 .modal-form-policy {
   font-family: var(--main-font);
+  text-align: center;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
